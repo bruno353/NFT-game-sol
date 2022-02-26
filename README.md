@@ -16,7 +16,8 @@ Players need to work together to attack the boss and bring its HP down to 0. Eve
 ## Live project
 https://unruffled-leavitt-3f8c0e.netlify.app/
 
-<br>
+<br>![Captura de Tela (80)](https://user-images.githubusercontent.com/82957886/155860454-8b943ad7-984a-4217-8ea6-dcdead8d967a.png)
+
 <br>
 <br>
 This project was built based on "BuildSpace" tutorials.
