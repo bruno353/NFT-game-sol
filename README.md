@@ -1,31 +1,22 @@
 # NFT Game Project
-For this project I built an Web3 game that allows users to select a playable minted NFT character that they then use to play the game
+The goal of our game will be to destroy dragon. You will choose between a warrior (He-man), a shooter(Bkswaw) or a wizard(Skeletor) NFT to battle the boss.  Players can order their **character NFT** to attack the boss and deal damage to it. 
 
-## Frameworks used
+Players need to work together to attack the boss and bring its HP down to 0. Every time a player hit the boss, the boss hits the player back! If the NFT's HP goes below 0, the player's NFT **dies** and they can't hit the boss anymore. Players **can only have one character NFT in their wallet.** Once the character's NFT dies, it's game over. 
+
+
+## Tools used
 <ul>
   <li>Reactjs</li>
   <li>Solidity</li>
-</ul>
-
-## Technologies used while building
-<ul>
   <li>Alchemy</li>
   <li>OpenSea</li>
   <li>MetaMask</li>
 </ul>
 
-## Live project for demo
-https://nft-game.netlify.app/
+## Live project
+https://unruffled-leavitt-3f8c0e.netlify.app/
 
-## Solidity code
-https://github.com/Heizal/epic-game
-
-### Run the project
-To get started with this project, clone this repo and follow these commands:
-
-1. Run `npm install` at the root of your directory
-2. Run `npm run start` to start the project
-3. Start coding!
-
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/courses/CO5cc2751b-e878-41c4-99fa-a614dc910ee9) and link your Discord account so you can get access to helpful channels teaching assistants, and your instructor!
+<br>
+<br>
+<br>
+This project was built based on "BuildSpace" tutorials.
